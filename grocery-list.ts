@@ -8,4 +8,5 @@ export const list = [
   "potatoes",
   "turnips",
   "carrots",
+  "milk",
 ];
