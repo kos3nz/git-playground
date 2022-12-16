@@ -6,6 +6,8 @@ export const list = [
   "pears",
   "lemons",
   "chips",
+  "cheese",
+  "yoghurt",
   "potatoes",
   "turnips",
   "carrots",
