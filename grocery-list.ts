@@ -2,7 +2,7 @@ export const list = [
   "oranges",
   "apples",
   "kiwi fruits",
-  "cola",
+  "lemonade",
   "pears",
   "lemons",
   "chips",
