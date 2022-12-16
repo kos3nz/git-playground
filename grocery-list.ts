@@ -4,6 +4,7 @@ export const list = [
   "kiwi fruits",
   "pears",
   "lemons",
+  "chips",
   "potatoes",
   "turnips",
   "carrots",
