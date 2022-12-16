@@ -12,4 +12,7 @@ export const list = [
   "turnips",
   "carrots",
   "milk",
+  "batteries",
+  "olive oil",
+  "vegemite",
 ];
