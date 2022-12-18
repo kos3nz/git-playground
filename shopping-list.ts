@@ -5,4 +5,9 @@ export const shopping_list = [
   "chair",
   "table",
   "desk",
+  "tv",
+  "charging cable",
+  "bed",
+  "speaker",
+  "pencil",
 ];

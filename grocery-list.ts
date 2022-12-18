@@ -13,4 +13,5 @@ export const list = [
   "turnips",
   "carrots",
   "milk",
+  "bananas",
 ];
