@@ -11,3 +11,5 @@ export const shopping_list = [
   "speaker",
   "pencil",
 ];
+
+console.log("made some changes");
