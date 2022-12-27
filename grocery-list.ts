@@ -6,12 +6,10 @@ export const list = [
   "pears",
   "lemons",
   "chips",
-  "cheese",
   "yoghurt",
   "olives",
   "potatoes",
   "turnips",
   "carrots",
-  "milk",
   "bananas",
 ];
