@@ -8,11 +8,10 @@ export const list = [
   "chips",
   "cheese",
   "yoghurt",
+  "olives",
   "potatoes",
   "turnips",
   "carrots",
   "milk",
-  "batteries",
-  "olive oil",
-  "vegemite",
+  "bananas",
 ];
