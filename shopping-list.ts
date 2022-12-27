@@ -8,6 +8,7 @@ export const shopping_list = [
   "speaker",
   "pencil",
   "mobile phone",
+  "t-shirt",
 ];
 
 console.log("made some changes");
