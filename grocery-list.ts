@@ -5,13 +5,10 @@ export const list = [
   "lemonade",
   "pears",
   "lemons",
-  "cheese",
-  "yoghurt",
   "olives",
   "potatoes",
   "turnips",
   "carrots",
-  "milk",
   "bananas",
   "beer",
 ];
